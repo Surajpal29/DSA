@@ -9,23 +9,15 @@
  */
 class Solution {
 public:
-    bool findpath(TreeNode* root,vector<TreeNode*>&path,TreeNode* n){
-        if(root==NULL) return false;
-        path.push_back(root);
-        if(root==n) return true;
-        if(findpath(root->left,path,n) || findpath(root->right,path,n)) return true;
-
-        path.pop_back();  
-        return false;
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*>path1,path2;  //path store krne ke liye
-        if(!findpath(root,path1,p)|| !findpath(root,path2,q)) return NULL;  //agar findpath se false return hoga toh ye line se return kr denge 
-        TreeNode* ans=NULL;
-        for(int i=0;i<path1.size() && i<path2.size();i++){   
-            if(path1[i]==path2[i])
-            ans=path1[i];
-        }
-        return ans;
+        if(root==NULL) return NULL;
+        if(root==p || root==q) return root;
+
+        TreeNode* lca1=lowestCommonAncestor(root->left,p,q);
+        TreeNode* lca2=lowestCommonAncestor(root->right,p,q);
+
+        if(lca1!=NULL && lca2!=NULL) return root;
+        if(lca1!=NULL) return lca1;
+        else return lca2;
     }
 };
