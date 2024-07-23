@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Surajpal29/DSA/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Surajpal29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Surajpal29/DSA/tree/master/0274-h-index) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Surajpal29/DSA/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Surajpal29/DSA/tree/master/0274-h-index) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surajpal29/DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
