@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Surajpal29/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Surajpal29/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Surajpal29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Surajpal29/DSA/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Surajpal29/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Surajpal29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Surajpal29/DSA/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
 ## Trie
 |  |
 | ------- |
