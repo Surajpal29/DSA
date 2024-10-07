@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Surajpal29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Surajpal29/DSA/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Surajpal29/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Surajpal29/DSA/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Surajpal29/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Surajpal29/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
