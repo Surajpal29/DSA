@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Surajpal29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Surajpal29/DSA/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Surajpal29/DSA/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/Surajpal29/DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Surajpal29/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Surajpal29/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -117,9 +118,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/Surajpal29/DSA/tree/master/1002-maximum-width-ramp) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Surajpal29/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Surajpal29/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Surajpal29/DSA/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
