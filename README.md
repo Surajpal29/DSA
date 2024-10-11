@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Surajpal29/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Surajpal29/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Surajpal29/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Surajpal29/DSA/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Surajpal29/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
