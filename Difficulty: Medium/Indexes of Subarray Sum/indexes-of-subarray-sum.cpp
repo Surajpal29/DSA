@@ -10,16 +10,33 @@ class Solution {
     vector<int> subarraySum(vector<int> arr, int n, long long s) {
         // Your code here
         int left=0,right=0;
-        long long sum=0;
-        for(int i=0,j=0;i<n;i++){
-            sum+=arr[i];
-            while(sum>s && j<i){
-                sum-=arr[j];
-                j++;
+        vector<int>ans;
+        int maxi=0;
+        
+        for(int i=0;i<n;i++){
+            maxi=maxi+arr[i];
+            
+            if(maxi==s){
+                ans.push_back(left+1);
+                ans.push_back(i+1);
+                break;
             }
-            if(sum==s) return {j+1,i+1};
+            
+            else if(maxi>s){
+                while(maxi>s){
+                    maxi-=arr[left];
+                    left++;
+                }
+                if(maxi==s && i>=left){
+                    ans.push_back(left+1);
+                    ans.push_back(i+1);
+                    break;
+                }
+            }
         }
-        return {-1};
+        if(ans.size()==0) return {-1};
+        return ans;
+        
     }
 };
 
