@@ -5,10 +5,8 @@ class Solution {
         // code here
         if(n==0 || n==1) return n;
         
-        int fnm1=nthFibonacci(n-1);
-        int fnm2=nthFibonacci(n-2);
-        int fn=fnm1+fnm2;
-        return fn;
+        int ans=nthFibonacci(n-1)+nthFibonacci(n-2);
+        return ans;
         
     }
 };
