@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Surajpal29/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Surajpal29/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Surajpal29/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajpal29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Surajpal29/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Surajpal29/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Surajpal29/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Surajpal29/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Surajpal29/DSA/tree/master/0567-permutation-in-string) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Surajpal29/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Surajpal29/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
