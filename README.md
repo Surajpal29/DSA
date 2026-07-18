@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Surajpal29/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Surajpal29/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Surajpal29/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -169,8 +170,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Surajpal29/DSA/tree/master/0062-unique-paths) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Surajpal29/DSA/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
