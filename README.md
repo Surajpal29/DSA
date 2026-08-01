@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Surajpal29/DSA/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Surajpal29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Surajpal29/DSA/tree/master/0274-h-index) |
+| [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 | [0948-sort-an-array](https://github.com/Surajpal29/DSA/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Surajpal29/DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Surajpal29/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Surajpal29/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajpal29/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Surajpal29/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Surajpal29/DSA/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Combinatorics
 |  |
@@ -179,4 +182,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
