@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Surajpal29/DSA/tree/master/1923-sentence-similarity-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Surajpal29/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Surajpal29/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Surajpal29/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Surajpal29/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Surajpal29/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Surajpal29/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Surajpal29/DSA/tree/master/0134-gas-station) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Surajpal29/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Surajpal29/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
