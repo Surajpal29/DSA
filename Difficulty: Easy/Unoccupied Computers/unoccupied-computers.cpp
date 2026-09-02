@@ -1,0 +1,24 @@
+class Solution {
+  public:
+    int solve(int n, string s) {
+        // code here
+        vector<int>freq(26,0);
+        int ans=0;
+        
+        for(char ch:s){
+            int d_ch=ch-65;
+            
+            if(freq[d_ch]==0 && n>0){
+                n--;
+                freq[d_ch]++;
+            }else if(freq[d_ch]==0 && n==0){
+                ans++;
+                freq[d_ch]=-1;
+            }else if(freq[d_ch]==1){
+                n++;
+                freq[d_ch]--;
+            }
+        }
+        return ans;
+    }
+};
