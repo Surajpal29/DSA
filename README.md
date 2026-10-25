@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Surajpal29/DSA/tree/master/0877-stone-game) |
 | [0948-sort-an-array](https://github.com/Surajpal29/DSA/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/Surajpal29/DSA/tree/master/1002-maximum-width-ramp) |
+| [1254-number-of-closed-islands](https://github.com/Surajpal29/DSA/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/Surajpal29/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Surajpal29/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Surajpal29/DSA/tree/master/1694-make-sum-divisible-by-p) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Surajpal29/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Surajpal29/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,4 +212,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Surajpal29/DSA/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Surajpal29/DSA/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Surajpal29/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Surajpal29/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
