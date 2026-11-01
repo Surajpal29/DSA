@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Surajpal29/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Surajpal29/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Surajpal29/DSA/tree/master/0274-h-index) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Surajpal29/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surajpal29/DSA/tree/master/0877-stone-game) |
 | [0948-sort-an-array](https://github.com/Surajpal29/DSA/tree/master/0948-sort-an-array) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Surajpal29/DSA/tree/master/0062-unique-paths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Surajpal29/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Surajpal29/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surajpal29/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surajpal29/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
